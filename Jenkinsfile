@@ -5,7 +5,7 @@ pipeline {
         IMAGE_TAG = "ajc-2.1"
         STAGING = "orenjiiro-staging"
         PRODUCTION = "orenjiiro-prod"
-        USERNAME = "herve"
+        USERNAME = "orenjiiro"
         CONTAINER_NAME = "alpinehelloworld"
     }
 
