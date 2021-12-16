@@ -7,7 +7,7 @@ pipeline {
         PRODUCTION = "orenjiiro-prod-env"
         USERNAME = "orenjiiro"
         CONTAINER_NAME = "alpinehelloworld"
-        EC2_PRODUCTION_HOST = "http://100.25.215.144"
+        EC2_PRODUCTION_HOST = "100.25.215.144"
     }
 
     agent none
